@@ -9,7 +9,6 @@ $(document).ready(function(){
 		if(section_pos){
 			$(window).scrollTo({top:section_pos.top, left:'0px'}, 1000);
 		}
-		
 	});
 
 	$('.app_link').click(function(e){
